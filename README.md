@@ -1,4 +1,4 @@
-# CollegeScorecard_Project
+# Determining the Importance of Institutional & Student Characteristics for Student Future Earnings
 
 Given the importance of future earnings as a factor in college selection and as an indicator of college quality, it is important to understand what institutional and student characteristics are important in determining students’ future earnings.
 
